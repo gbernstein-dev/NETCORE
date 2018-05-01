@@ -1,0 +1,10 @@
+/Users/gbernstein/Desktop/NETCORE/puzzles/obj/Debug/netcoreapp2.0/puzzles.csproj.CoreCompileInputs.cache
+/Users/gbernstein/Desktop/NETCORE/puzzles/obj/Debug/netcoreapp2.0/puzzles.AssemblyInfoInputs.cache
+/Users/gbernstein/Desktop/NETCORE/puzzles/obj/Debug/netcoreapp2.0/puzzles.AssemblyInfo.cs
+/Users/gbernstein/Desktop/NETCORE/puzzles/bin/Debug/netcoreapp2.0/puzzles.deps.json
+/Users/gbernstein/Desktop/NETCORE/puzzles/bin/Debug/netcoreapp2.0/puzzles.runtimeconfig.json
+/Users/gbernstein/Desktop/NETCORE/puzzles/bin/Debug/netcoreapp2.0/puzzles.runtimeconfig.dev.json
+/Users/gbernstein/Desktop/NETCORE/puzzles/bin/Debug/netcoreapp2.0/puzzles.dll
+/Users/gbernstein/Desktop/NETCORE/puzzles/bin/Debug/netcoreapp2.0/puzzles.pdb
+/Users/gbernstein/Desktop/NETCORE/puzzles/obj/Debug/netcoreapp2.0/puzzles.dll
+/Users/gbernstein/Desktop/NETCORE/puzzles/obj/Debug/netcoreapp2.0/puzzles.pdb
