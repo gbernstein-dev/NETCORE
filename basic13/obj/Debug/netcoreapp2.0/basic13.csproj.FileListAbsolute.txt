@@ -1,0 +1,10 @@
+/Users/gbernstein/Desktop/NETCORE/basic13/bin/Debug/netcoreapp2.0/basic13.deps.json
+/Users/gbernstein/Desktop/NETCORE/basic13/bin/Debug/netcoreapp2.0/basic13.runtimeconfig.json
+/Users/gbernstein/Desktop/NETCORE/basic13/bin/Debug/netcoreapp2.0/basic13.runtimeconfig.dev.json
+/Users/gbernstein/Desktop/NETCORE/basic13/bin/Debug/netcoreapp2.0/basic13.dll
+/Users/gbernstein/Desktop/NETCORE/basic13/bin/Debug/netcoreapp2.0/basic13.pdb
+/Users/gbernstein/Desktop/NETCORE/basic13/obj/Debug/netcoreapp2.0/basic13.csproj.CoreCompileInputs.cache
+/Users/gbernstein/Desktop/NETCORE/basic13/obj/Debug/netcoreapp2.0/basic13.AssemblyInfoInputs.cache
+/Users/gbernstein/Desktop/NETCORE/basic13/obj/Debug/netcoreapp2.0/basic13.AssemblyInfo.cs
+/Users/gbernstein/Desktop/NETCORE/basic13/obj/Debug/netcoreapp2.0/basic13.dll
+/Users/gbernstein/Desktop/NETCORE/basic13/obj/Debug/netcoreapp2.0/basic13.pdb
