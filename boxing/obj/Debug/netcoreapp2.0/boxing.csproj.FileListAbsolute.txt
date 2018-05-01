@@ -1,0 +1,10 @@
+/Users/gbernstein/Desktop/NETCORE/boxing/obj/Debug/netcoreapp2.0/boxing.csproj.CoreCompileInputs.cache
+/Users/gbernstein/Desktop/NETCORE/boxing/obj/Debug/netcoreapp2.0/boxing.AssemblyInfoInputs.cache
+/Users/gbernstein/Desktop/NETCORE/boxing/obj/Debug/netcoreapp2.0/boxing.AssemblyInfo.cs
+/Users/gbernstein/Desktop/NETCORE/boxing/bin/Debug/netcoreapp2.0/boxing.deps.json
+/Users/gbernstein/Desktop/NETCORE/boxing/bin/Debug/netcoreapp2.0/boxing.runtimeconfig.json
+/Users/gbernstein/Desktop/NETCORE/boxing/bin/Debug/netcoreapp2.0/boxing.runtimeconfig.dev.json
+/Users/gbernstein/Desktop/NETCORE/boxing/bin/Debug/netcoreapp2.0/boxing.dll
+/Users/gbernstein/Desktop/NETCORE/boxing/bin/Debug/netcoreapp2.0/boxing.pdb
+/Users/gbernstein/Desktop/NETCORE/boxing/obj/Debug/netcoreapp2.0/boxing.dll
+/Users/gbernstein/Desktop/NETCORE/boxing/obj/Debug/netcoreapp2.0/boxing.pdb
