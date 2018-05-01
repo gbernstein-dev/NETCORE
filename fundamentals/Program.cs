@@ -3,21 +3,29 @@ namespace ConsoleApplication
 {
     public class Program
     {
-        public static void Main(string[] args)
+      public static void Main()
+      {
+        for (int i = 1; i <= 100; i++)
         {
-          for (int i = 1; i <= 255; i++)
+        bool fizz = i % 3 == 0;
+        bool buzz = i % 5 == 0;
+        if (fizz && buzz)
             {
-              Console.WriteLine(i);
+              Console.WriteLine ("FizzBuzz");
             }
-          for (int i = 1; i <= 100; i++)
+        else if (fizz)
+            { 
+              Console.WriteLine ("Fizz"); 
+            }
+        else if (buzz)
             {
-              if (i % 3 == 0 || i % 5 == 0){
-                if (i % 3 == 0 && i % 5 == 0) {}
-                else{
-                  Console.WriteLine(i);
-                }
+              Console.WriteLine ("Buzz"); 
             }
-          }
+        else 
+            {
+              Console.WriteLine (i);
+            }           
         }
+      }
     }
 }
