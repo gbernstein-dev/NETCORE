@@ -1,0 +1,10 @@
+/Users/gbernstein/Desktop/NETCORE/collections/bin/Debug/netcoreapp2.0/collections.deps.json
+/Users/gbernstein/Desktop/NETCORE/collections/bin/Debug/netcoreapp2.0/collections.runtimeconfig.json
+/Users/gbernstein/Desktop/NETCORE/collections/bin/Debug/netcoreapp2.0/collections.runtimeconfig.dev.json
+/Users/gbernstein/Desktop/NETCORE/collections/bin/Debug/netcoreapp2.0/collections.dll
+/Users/gbernstein/Desktop/NETCORE/collections/bin/Debug/netcoreapp2.0/collections.pdb
+/Users/gbernstein/Desktop/NETCORE/collections/obj/Debug/netcoreapp2.0/collections.csproj.CoreCompileInputs.cache
+/Users/gbernstein/Desktop/NETCORE/collections/obj/Debug/netcoreapp2.0/collections.AssemblyInfoInputs.cache
+/Users/gbernstein/Desktop/NETCORE/collections/obj/Debug/netcoreapp2.0/collections.AssemblyInfo.cs
+/Users/gbernstein/Desktop/NETCORE/collections/obj/Debug/netcoreapp2.0/collections.dll
+/Users/gbernstein/Desktop/NETCORE/collections/obj/Debug/netcoreapp2.0/collections.pdb
