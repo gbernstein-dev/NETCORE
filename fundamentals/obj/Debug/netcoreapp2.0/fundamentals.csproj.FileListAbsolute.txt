@@ -1,0 +1,10 @@
+/Users/gbernstein/Desktop/NETCORE/fundamentals/obj/Debug/netcoreapp2.0/fundamentals.csproj.CoreCompileInputs.cache
+/Users/gbernstein/Desktop/NETCORE/fundamentals/obj/Debug/netcoreapp2.0/fundamentals.AssemblyInfoInputs.cache
+/Users/gbernstein/Desktop/NETCORE/fundamentals/obj/Debug/netcoreapp2.0/fundamentals.AssemblyInfo.cs
+/Users/gbernstein/Desktop/NETCORE/fundamentals/bin/Debug/netcoreapp2.0/fundamentals.deps.json
+/Users/gbernstein/Desktop/NETCORE/fundamentals/bin/Debug/netcoreapp2.0/fundamentals.runtimeconfig.json
+/Users/gbernstein/Desktop/NETCORE/fundamentals/bin/Debug/netcoreapp2.0/fundamentals.runtimeconfig.dev.json
+/Users/gbernstein/Desktop/NETCORE/fundamentals/bin/Debug/netcoreapp2.0/fundamentals.dll
+/Users/gbernstein/Desktop/NETCORE/fundamentals/bin/Debug/netcoreapp2.0/fundamentals.pdb
+/Users/gbernstein/Desktop/NETCORE/fundamentals/obj/Debug/netcoreapp2.0/fundamentals.dll
+/Users/gbernstein/Desktop/NETCORE/fundamentals/obj/Debug/netcoreapp2.0/fundamentals.pdb

@@ -1,0 +1,10 @@
+/Users/gbernstein/Desktop/NETCORE/firstcsharp/bin/Debug/netcoreapp2.0/firstcsharp.deps.json
+/Users/gbernstein/Desktop/NETCORE/firstcsharp/bin/Debug/netcoreapp2.0/firstcsharp.runtimeconfig.json
+/Users/gbernstein/Desktop/NETCORE/firstcsharp/bin/Debug/netcoreapp2.0/firstcsharp.runtimeconfig.dev.json
+/Users/gbernstein/Desktop/NETCORE/firstcsharp/bin/Debug/netcoreapp2.0/firstcsharp.dll
+/Users/gbernstein/Desktop/NETCORE/firstcsharp/bin/Debug/netcoreapp2.0/firstcsharp.pdb
+/Users/gbernstein/Desktop/NETCORE/firstcsharp/obj/Debug/netcoreapp2.0/firstcsharp.csproj.CoreCompileInputs.cache
+/Users/gbernstein/Desktop/NETCORE/firstcsharp/obj/Debug/netcoreapp2.0/firstcsharp.AssemblyInfoInputs.cache
+/Users/gbernstein/Desktop/NETCORE/firstcsharp/obj/Debug/netcoreapp2.0/firstcsharp.AssemblyInfo.cs
+/Users/gbernstein/Desktop/NETCORE/firstcsharp/obj/Debug/netcoreapp2.0/firstcsharp.dll
+/Users/gbernstein/Desktop/NETCORE/firstcsharp/obj/Debug/netcoreapp2.0/firstcsharp.pdb
