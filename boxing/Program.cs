@@ -1,27 +1,36 @@
 ﻿using System;
 using System.Collections.Generic;
 
+
 namespace boxing
 {
     class Program
     {
         static void typing()
         {
+            
+            List<int> numbers = new List<int>();
             int total = 0;
-            int a = 7;
-            int b = 28;
-            int c = -1; 
             List<object> empty = new List<object>();
-            empty.Add(a);
-            empty.Add(b);
-            empty.Add(c);
-            empty.Add(true);
-            empty.Add("chair");
+            empty.Add((int) 7);
+            empty.Add((int) 28);
+            empty.Add((int) -1);
+            empty.Add((bool) true);
+            empty.Add((string) "chair");
             foreach (object item in empty)
             {
-                Console.WriteLine(item);
+                if (item.GetType().Equals(typeof(int)))
+                    {
+                      numbers.Add((int) item);
+                    }
+                Console.WriteLine(item.GetType());
             }
-            Console.WriteLine(total); 
+            
+            foreach (int item in numbers)
+                {
+                  total += item;
+                }
+            Console.WriteLine(total);
         }
         static void Main(string[] args)
         {
